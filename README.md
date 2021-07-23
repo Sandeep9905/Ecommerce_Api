@@ -1,1 +1,3 @@
 # Ecommerce_Api
+to run this api make an .env file and make 1.SECRET_KEY ,ADMIN_SECRET_KEY varialble and give them some long string value and give SECRET as iat value of the admin which comes when we decode or verify by jwt.
+you can get the iat value by consoling the decoded value and copy the iat from Admin middleware function...
